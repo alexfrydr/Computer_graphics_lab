@@ -16,7 +16,7 @@ int main() {
     glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 1);
     glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 0);
 
-    GLFWwindow* window = glfwCreateWindow(512, 512, "Прямоугольник - Вариант 28", NULL, NULL);
+    GLFWwindow* window = glfwCreateWindow(512, 512, "Rectangle - Option 28", NULL, NULL);
 
     if (!window) {
         glfwTerminate();
@@ -74,3 +74,4 @@ int main() {
     glfwTerminate();
 
 }
+
