@@ -1,0 +1,7 @@
+﻿  Lab1.cpp
+     Создается библиотека C:\Users\achubukin\YandexDisk\Учеба\3 курс\Компьютерная графика\Лабораторная работа 1\Lab1\x64\Debug\Lab1.lib и объект C:\Users\achubukin\YandexDisk\Учеба\3 курс\Компьютерная графика\Лабораторная работа 1\Lab1\x64\Debug\Lab1.exp
+LINK : warning LNK4217: Символ "glewInit", определенный в "glew.obj", импортирован "Lab1.obj" в функции "main".
+LINK : warning LNK4217: Символ "glewGetErrorString", определенный в "glew.obj", импортирован "Lab1.obj" в функции "main".
+LINK : warning LNK4217: Символ "glewGetString", определенный в "glew.obj", импортирован "Lab1.obj" в функции "main".
+LINK : warning LNK4217: Символ "glewExperimental", определенный в "glew.obj", импортирован "Lab1.obj" в функции "main".
+  Lab1.vcxproj -> C:\Users\achubukin\YandexDisk\Учеба\3 курс\Компьютерная графика\Лабораторная работа 1\Lab1\x64\Debug\Lab1.exe
