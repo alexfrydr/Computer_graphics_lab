@@ -7,7 +7,7 @@
 - **[Lab1: Настройка Visual Studio для работы с OpenGL. Создание контекста и рендера.](https://github.com/alexfrydr/Computer_graphics_lab/blob/main/Lab1/Lab1.cpp)**
 - **[Lab2: Создание рендера с использованием VBO, VAO и EBO.](https://github.com/alexfrydr/Computer_graphics_lab/blob/main/Lab2/Lab2.cpp)** 
 - **Lab3**: Создание 3Д модели.  
-- **Lab4**: Движение камеры, использование матриц. Работа с библиотекой glm.
+- **[Lab4: Движение камеры, использование матриц. Работа с библиотекой glm.] (https://github.com/alexfrydr/Computer_graphics_lab/blob/main/Lab4/Lab4.cpp)
 - **Lab5**: Подключение и работа с библиотекой ASSIMP. Настройка импорта модели.  
 - **Lab6**: Освещение. Материалы.  
 - **Lab7**: Создание движения через аффинные преобразования.  
