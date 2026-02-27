@@ -1,0 +1,44 @@
+# ==================== VISUAL STUDIO ====================
+.vs/
+*.vcxproj.user
+*.sln.docstates
+*.suo
+*.aps
+*.ncb
+*.opendb
+ipch/
+*.sdf
+*.tlog
+*.log
+*.idb
+*.pdb
+*.pch
+*.res
+*.ilk
+*.db
+*.opendb
+
+# ==================== BUILD OUTPUTS ====================
+Debug/
+Release/
+x64/
+x86/
+build/
+bin/
+obj/
+out/
+[Bb]in/
+[Oo]bj/
+[Tt]emp/
+
+# ==================== SYSTEM FILES ====================
+Thumbs.db
+.DS_Store
+*.tmp
+*.temp
+*.cache
+
+# ==================== DOCUMENTS ====================
+*.pdf
+*.docx
+*.doc
