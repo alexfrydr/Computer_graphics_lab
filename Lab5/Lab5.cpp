@@ -142,7 +142,7 @@ int main() {
 	}
 
 	// Загружаем модель через ASSIMP
-	Model ourModel("models/Laba3.obj");
+	Model ourModel("models/Laba3.1.obj");
 
 	if (ourModel.meshes.empty()) {
 		std::cerr << "The model is not loaded!" << std::endl;
