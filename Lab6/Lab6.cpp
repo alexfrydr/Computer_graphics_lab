@@ -201,11 +201,11 @@ int main() {
 		glUniformMatrix4fv(viewLoc, 1, GL_FALSE, glm::value_ptr(view));
 		glUniformMatrix4fv(projectionLoc, 1, GL_FALSE, glm::value_ptr(projection));
 
-		// Установка свойств материала (медь)
-		glUniform3f(glGetUniformLocation(shaderProgram, "material.ambient"), 0.19125f, 0.0735f, 0.0225f);
-		glUniform3f(glGetUniformLocation(shaderProgram, "material.diffuse"), 0.7038f, 0.27048f, 0.0828f);
-		glUniform3f(glGetUniformLocation(shaderProgram, "material.specular"), 0.6f, 0.4f, 0.3f);
-		glUniform1f(glGetUniformLocation(shaderProgram, "material.shininess"), 32.0f);
+		// Установка свойств материала (Серебро)
+		glUniform3f(glGetUniformLocation(shaderProgram, "material.ambient"), 0.19225f, 0.19225f, 0.19225f);
+		glUniform3f(glGetUniformLocation(shaderProgram, "material.diffuse"), 0.50754f, 0.50754f, 0.50754f);
+		glUniform3f(glGetUniformLocation(shaderProgram, "material.specular"), 0.508273f, 0.508273f, 0.508273f);
+		glUniform1f(glGetUniformLocation(shaderProgram, "material.shininess"), 51.2f);
 
 		// Установка свойств света
 		glUniform3f(glGetUniformLocation(shaderProgram, "light.position"), lightPos[0], lightPos[1], lightPos[2]);
