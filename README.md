@@ -9,5 +9,5 @@
 - **[Lab3: Создание 3Д модели.](https://github.com/alexfrydr/Computer_graphics_lab/tree/main/Lab3)**  
 - **[Lab4: Движение камеры, использование матриц. Работа с библиотекой glm.](https://github.com/alexfrydr/Computer_graphics_lab/blob/main/Lab4/Lab4.cpp)**
 - **[Lab5: Подключение и работа с библиотекой ASSIMP. Настройка импорта модели.](https://github.com/alexfrydr/Computer_graphics_lab/blob/main/Lab5/Lab5.cpp)**  
-- **Lab6**: Освещение. Материалы.  
+- **[Lab6: Освещение. Материалы.](https://github.com/alexfrydr/Computer_graphics_lab/blob/main/Lab6/Lab6.cpp)**  
 - **Lab7**: Создание движения через аффинные преобразования.  
